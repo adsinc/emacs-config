@@ -1,3 +1,4 @@
+
 ;; These customizations change the way emacs looks and disable/enable
 ;; some user interface elements. Some useful customizations are
 ;; commented out, and begin with the line "CUSTOMIZE". These are more
@@ -30,7 +31,7 @@
 (load-theme 'tomorrow-night-bright t)
 
 ;; increase font size for better readability
-(set-face-attribute 'default nil :height 120)
+(set-face-attribute 'default nil :height 130)
 
 ;; Uncomment the lines below by removing semicolons and play with the
 ;; values in order to set the width (in characters wide) and height
